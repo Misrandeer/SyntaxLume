@@ -1,6 +1,8 @@
 # 🎨 SyntaxLume
 SyntaxLume is and extension for Visual Studio which allow to hightlight C# access modifiers public, private, protected, internal and other important ones like: static, sealed, virtual, override by colorizing those to custom color.
 
+Make your code cleaner by removing unnecessary visual noise.
+
 ![image](https://github.com/user-attachments/assets/6b4fcdc8-be68-41ff-a770-22d7cede54d3)
 
 
