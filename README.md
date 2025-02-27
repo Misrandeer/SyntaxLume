@@ -1,4 +1,9 @@
-# 🎨 SyntaxLume
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/747f3fc1-0936-4d60-9157-66be2d65d103" />
+</p>
+
+
+# SyntaxLume - Access Modifiers Highlighter
 SyntaxLume is and extension for Visual Studio which allow to highlight  C# access modifiers public, private, protected, internal and other important ones like: static, sealed, virtual, override by colorizing those to custom color.
 
 Make your code cleaner by removing unnecessary visual noise.
